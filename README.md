@@ -22,7 +22,7 @@ Bot do Telegram para gerar payloads dinâmicas compatíveis com DTunnel, HTTP In
 
 $ pkg update && pkg upgrade -y
 $ pkg install git -y
-$ git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+$ git clone https://github.com/Reaper-slh/bot-payload-telegram.git
 $ cd NOME_DO_REPOSITORIO
 
 2️⃣ Instalar Dependências
